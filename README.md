@@ -15,8 +15,6 @@
 
 ## ⚡ Tech Stack
 
-## ⚡ Tech Stack
-
 ### 🧠 Languages
 
 Python • Java • JavaScript • TypeScript • SQL • Go
