@@ -8,12 +8,12 @@
 
 ## 💡 What I Do
 
-I build **scalable backend systems and distributed architectures** used in real-world domains like healthcare, finance, and real-time applications.
+I design and build **scalable backend systems and distributed architectures** across domains like healthcare, finance, and real-time applications.
 
-* ⚡ Design high-performance APIs and microservices
-* 🧠 Build distributed systems with queues, caching, and async processing
-* 🔄 Work with real-time systems and event-driven architectures
-* ☁️ Deploy and scale applications using cloud and DevOps tools
+* ⚡ Build high-performance APIs and microservices
+* 🧠 Design distributed systems (queues, caching, async processing)
+* 🔄 Develop real-time and event-driven systems
+* ☁️ Deploy and scale applications using cloud & DevOps tools
 
 ---
 
@@ -21,7 +21,7 @@ I build **scalable backend systems and distributed architectures** used in real-
 
 ### 🚀 Real-Time Collaborative Code Editor
 
-Low-latency real-time system with Operational Transformation, Redis Pub/Sub, and WebSocket architecture.
+Low-latency real-time system using WebSockets, Operational Transformation, and Redis Pub/Sub.
 👉 Distributed real-time synchronization system
 
 ---
@@ -42,44 +42,37 @@ Cache-first system with Redis, rate limiting, analytics, and high-performance re
 
 ### 🤖 Multi-Agent AI Document System
 
-Distributed AI pipeline using multiple agents (Summarizer, Q&A, Insights) with async execution.
+Distributed AI pipeline with multiple agents (Summarizer, Q&A, Insights) and async execution.
 👉 Production-style AI backend system
 
 ---
 
 ## 🧠 Tech Stack
 
-### Languages
-
+**Languages**
 Python • Java • JavaScript • TypeScript • SQL • Go
 
-### Backend
-
+**Backend**
 FastAPI • Spring Boot • Node.js • Django • Flask
 
-### Frontend
-
+**Frontend**
 React • Next.js • Redux
 
-### Databases
-
+**Databases**
 PostgreSQL • MongoDB • MySQL • DynamoDB
 
-### Distributed Systems
-
+**Distributed Systems**
 Kafka • RabbitMQ • Redis • SQS
 
-### Cloud & DevOps
-
+**Cloud & DevOps**
 AWS • Docker • Kubernetes • Terraform
 
-### Tools
-
+**Tools**
 Git • GitHub • CI/CD • Prometheus • Grafana
 
 ---
 
-## 📈 What I’m Focused On
+## 📈 Focus Areas
 
 * System Design & Scalability
 * Backend Engineering
@@ -97,4 +90,4 @@ Git • GitHub • CI/CD • Prometheus • Grafana
 
 ## ⚡ Currently
 
-Actively preparing and applying for **Backend / SDE /Software roles in top tech companies**
+Actively preparing and applying for **Backend / SDE / SWE roles**
