@@ -8,7 +8,13 @@ Full Stack Developer | Python • FastAPI • React • PostgreSQL
 
 ## 🚀 About Me
 
-I build full-stack web applications with a focus on clean architecture, structured APIs, and efficient data handling.
+## 🚀 About Me
+
+Full Stack Developer with hands-on experience developing web applications using Python, FastAPI, React.js, and PostgreSQL. Experienced in designing RESTful APIs, implementing backend logic, and building responsive frontend interfaces.
+
+Worked on end-to-end application development, including API integration, database design, debugging, and deployment. Completed a full-stack developer traineeship where I developed real-world applications by integrating frontend, backend, and database systems.
+
+Focused on writing clean, maintainable code and continuously improving development skills through practical projects.
 
 - Strong in backend development using **FastAPI**
 - Experience designing **RESTful APIs and relational database schemas**
