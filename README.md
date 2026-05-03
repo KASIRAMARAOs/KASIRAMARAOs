@@ -94,5 +94,5 @@ Database (PostgreSQL)
 
 ## 📫 Connect With Me
 
-- LinkedIn: (your link)
+- LinkedIn: https://www.linkedin.com/in/kasirams/?skipRedirect=true
 - Email: kasiramaraos@gmail.com
