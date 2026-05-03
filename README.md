@@ -46,7 +46,6 @@ I build full-stack web applications with a focus on clean architecture, structur
 - Full-stack app for managing coding sessions and snippets
 - Designed REST APIs with structured request/response handling
 - Implemented PostgreSQL schema for session and code storage  
-👉 [View Project](#)
 
 ---
 
@@ -54,7 +53,6 @@ I build full-stack web applications with a focus on clean architecture, structur
 - Workflow-based task management system with status tracking
 - Backend API handles task lifecycle and transitions
 - React dashboard for task visualization  
-👉 [View Project](#)
 
 ---
 
@@ -62,7 +60,6 @@ I build full-stack web applications with a focus on clean architecture, structur
 - Document upload and management system
 - Backend handles metadata and retrieval logic
 - Clean UI for document interaction  
-👉 [View Project](#)
 
 ---
 
