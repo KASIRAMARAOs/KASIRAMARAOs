@@ -6,7 +6,6 @@ Full Stack Developer | Python • FastAPI • React • PostgreSQL
 
 ---
 
-## 🚀 About Me
 
 ## 🚀 About Me
 
