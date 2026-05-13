@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kasi 👋</h1>
+<h1 align="center">Hi, I'm Ram 👋</h1>
 
 <p align="center">
 Full Stack Developer | Python • FastAPI • React • PostgreSQL
